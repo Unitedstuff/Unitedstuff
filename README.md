@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ADITYA SETHI</h1>
 <h3 align="center">A passionate Backend Developer in India ,</h3>
-
+<img align = "right" alt = "coding" width="300" src="https://gifdb.com/images/high/i-m-coding-machine-animation-c85t0so5hpi45qw5.webp"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unitedstuff&label=Profile%20views&color=0e75b6&style=plastic" alt="unitedstuff" /> </p>
 
 - 🔭 I’m currently working on **Rest API**
