@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Rest API**
 
-- 🌱 I’m currently learning **DSA in java &&  MERN Stack To Build Applications and Api**
+- 🌱 I’m currently learning **DSA in java &&  Spring Boot To Build Applications and Api**
 
 - 📫 How to reach me **sethienterprises9023@gmail.com**
 
